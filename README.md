@@ -1,1 +1,1 @@
-# bitespeed
+Use the http://bitespeed.pythonanywhere.com/identify endpoint to test the API.
